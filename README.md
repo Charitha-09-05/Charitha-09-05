@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charitha-09-05
+- 👋 Hi, I’m Ponnuru Charitha
 - 👀 I’m interested in  coding
 - 🌱 I’m currently learning Full stack 
 - 📫 How to reach me ponnurucharitha@gmail.com

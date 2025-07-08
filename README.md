@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ponnuru Charitha
 - 👀 I’m interested in  coding
-- 🌱 I’m currently learning Full stack 
+- 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me ponnurucharitha@gmail.com
 
 
